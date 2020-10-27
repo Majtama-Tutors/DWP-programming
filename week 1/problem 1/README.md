@@ -11,4 +11,3 @@ Jim owns a donut shop that sells 8 colours of donuts that each cost a different 
 
 
 ### Presented to you by Majtama Tutors!
-![Majtama Logo](https://raw.githubusercontent.com/AmeerHamoodi/majtima/master/marketing/smaller-blue-logo.png?token=AJFHMJOOTZW6TEG4WC6IRJ27SIRPE)
